@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis (SQL)
+#  Hotel Booking Analysis (SQL)
 
 ## 📌 Project Overview
 This project analyzes hotel booking data using SQL (Microsoft SQL Server).
