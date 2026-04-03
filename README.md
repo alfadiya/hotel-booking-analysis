@@ -55,6 +55,7 @@ Some of the business questions explored:
 
 ## 📁 Project Structure
 
+```
 hotel-booking-analysis/
 │
 ├── booking_analysis.sql
@@ -64,8 +65,7 @@ hotel-booking-analysis/
 │   ├── hotels.csv
 │   └── cities.csv
 └── README.md
-
----
+```
 
 ## 👩‍💻 Author
 Alfadiya Noushad
